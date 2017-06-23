@@ -1,0 +1,56 @@
+[
+  {
+    "key": "1",
+    "name": "Smartwheel",
+    "imagePath": "./img/smartwheel.jpg",
+    "description": "Patinete elétrico que se movimenta de acordo com os movimentos dos seus pés.",
+    "price": "1.500,00",
+    "paymentPlan": "10x de 150,00 sem juros"
+  },
+
+  {
+    "key": "2",
+    "name": "Playstation 4",
+    "imagePath": "./img/ps4.jpg",
+    "description": "Com seu eficaz processador que consegue calcular quase dois trilhões de operações por segundo, o Console PS4 é um dos consoles mais eficazes.",
+    "price": "1.800,00",
+    "paymentPlan": "10x de 180,00 sem juros"
+  },
+
+  {
+    "key": "3",
+    "name": "Robô aspirador Deebot D45",
+    "imagePath": "./img/deebot.jpg",
+    "description": "Robô Aspirador para todos os Pisos, D45 é fácil de operar e manter, tem dupla escova-vassoura lateral, um controle remoto e base carregadora.",
+    "price": "1.300,00",
+    "paymentPlan": "10x de 130,00 sem juros"
+  },
+
+  {
+    "key": "4",
+    "name": "Xbox One",
+    "imagePath": "./img/xboxone.jpg",
+    "description": "O Xbox One é uma central de entretenimento: além dos jogos, você pode aproveitar sua interação com outros aparelhos, como a TV da sua sala.",
+    "price": "1.200,00",
+    "paymentPlan": "10x de 120,00 sem juros"
+  },
+
+  {
+    "key": "5",
+    "name": "Sony Xperia Z5",
+    "imagePath": "./img/xperiaz5.jpg",
+    "description": "O Xperia Z5 é o celular com tela de 5,2 polegadas, da Sony, com câmera de 23 megapixels e foco super-rápido.",
+    "price": "2.800,00",
+    "paymentPlan": "10x de 280,00 sem juros"
+  },
+
+  {
+    "key": "6",
+    "name": "Roteador TPLink Archer C9",
+    "imagePath": "./img/tplink.jpg",
+    "description": "O Archer C9 vem com a próxima geração Wi-Fi – o padrão 11ac, oferecendo velocidade total de transferência de dados em até 1.9Gbps.",
+    "price": "600,00",
+    "paymentPlan": "10x de 60,00 sem juros"
+  }
+
+]
