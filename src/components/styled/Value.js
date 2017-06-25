@@ -4,7 +4,7 @@ import color from './colors';
 const ValueContainer = styled.p`
   font-size: 1.875em;
   font-weight: 500;
-  color: ${color.grey};
+  color: ${color.gray};
   text-align: center;
   margin-bottom: 0;
 `;

@@ -39,7 +39,7 @@ const Card = styled.div`
 
 const CardTitle = H2.extend`
   font-size: 2.25em;
-  border-bottom: 1px solid ${color.grey};
+  border-bottom: 1px solid ${color.gray};
   margin-top: 0;
   margin-bottom: 0.5555em;
 `;
