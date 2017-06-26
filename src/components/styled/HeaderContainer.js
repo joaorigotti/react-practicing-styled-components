@@ -1,14 +1,13 @@
 import styled from 'styled-components';
-import color from './colors';
 
 const Background = styled.div`
-  background: ${color.darkBlue};
+  background: ${({ theme }) => theme.darkBlue};
 `;
 
 const HeaderContainer = styled.div`
   display: flex;
   align-items: center;
-  color: ${color.white};
+  color: ${({ theme }) => theme.white};
   min-height: 12em;
 `;
 

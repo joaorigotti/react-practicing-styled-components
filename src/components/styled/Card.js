@@ -1,6 +1,5 @@
 import styled from 'styled-components';
 import { H2 } from './Titles';
-import color from './colors';
 
 const Image = styled.img`
   display: block;
@@ -27,7 +26,7 @@ const Card = styled.div`
   justify-content: space-between;
   width: 100%;
   box-shadow: 0 0 10px #eee;
-  border-top: 2px solid ${color.darkBlue};
+  border-top: 2px solid ${({ theme }) => theme.darkBlue};
   border-radius: 2px;
   padding: 0.625em;
   transition: all 0.3s ease-in-out;
@@ -39,7 +38,7 @@ const Card = styled.div`
 
 const CardTitle = H2.extend`
   font-size: 2.25em;
-  border-bottom: 1px solid ${color.gray};
+  border-bottom: 1px solid ${({ theme }) => theme.gray};
   margin-top: 0;
   margin-bottom: 0.5555em;
 `;
